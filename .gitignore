@@ -1,0 +1,54 @@
+# Pasta do Maven
+/target/
+
+# Logs
+*.log
+/logs/
+/spring.log
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.swp
+
+# Arquivos de configuração específicos do ambiente
+*.env
+
+# IntelliJ IDEA
+/.idea/
+/*.iml
+
+# Eclipse
+/.classpath
+/.project
+/.settings/
+/*.launch
+
+# NetBeans
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# STS (Spring Tool Suite)
+/.apt_generated/
+/.classpath
+/.factorypath
+/.project
+/.settings/
+/.springBeans
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de cache do Maven
+.mvn/timing.properties
+
+# Outros arquivos relacionados ao cache do IDE
+.vscode/
+*.bak
+*.backup
+*.
